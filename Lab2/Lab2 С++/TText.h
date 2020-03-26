@@ -69,7 +69,7 @@ public:
   }
 
   void Clear() {
-    size = 0;
+    return 0;
   }
 
   int Size() const {
