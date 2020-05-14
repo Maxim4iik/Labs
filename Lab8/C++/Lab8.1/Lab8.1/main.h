@@ -4,8 +4,6 @@
 //
 //  Created by Maxim Trokhimets on 04.05.2020.
 //  Copyright © 2020 Maxim Trokhimets. All rights reserved.
-//
-
 #ifndef main_h
 #define main_h
 
