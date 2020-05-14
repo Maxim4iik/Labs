@@ -4,7 +4,7 @@
 //
 //  Created by Maxim Trokhimets on 04.05.2020.
 //  Copyright © 2020 Maxim Trokhimets. All rights reserved.
-//
+
 
 #ifndef tangible_event_h
 #define tangible_event_h
