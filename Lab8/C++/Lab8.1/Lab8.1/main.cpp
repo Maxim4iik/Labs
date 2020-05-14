@@ -63,3 +63,4 @@ void Program::Main(std::vector<std::wstring> &args)
 
     delete counter;
 }
+
